@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Mayank Sharma
-🎓 Incoming B.Tech Computer Science Student |
-💡 Aspiring Software Developer | 
-☁️ Cloud Enthusiast | 
-🧠 Lifelong Learner
-📍 Based in Dubai | 
-🌐 Open to global collaboration |
+🎓 Incoming B.Tech Computer Science Student | 💡 Aspiring Software Developer |  ☁️ Cloud Enthusiast |  🧠 Lifelong Learner | 
+📍 Based in Dubai |  🌐 Open to global collaboration |
 
 
 # 🧠 About Me
