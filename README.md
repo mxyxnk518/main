@@ -13,5 +13,8 @@ I’m a dedicated technologist with a deep passion for building scalable solutio
   
 I believe in hands-on learning driven by structured curriculums, creative side projects, and collaborative innovation.
 
-# 📂 Featured Repositories
+# 🚀 Featured Projects
+
+- [VoyagePro](./voyagepro/) 
+
 
