@@ -16,5 +16,6 @@ I believe in hands-on learning driven by structured curriculums, creative side p
 # 🚀 Featured Projects
 
 - [VoyagePro](https://github.com/mxyxnk518/Projects/tree/main/voyagerpro-main/voyagerpro-main)
+- [PrePersona](https://github.com/mxyxnk518/Projects/tree/main/DataInsightPro)
 
 
