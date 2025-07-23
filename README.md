@@ -41,7 +41,7 @@ A Spotify-style music app featuring real-time lyrics, trending charts, and seaml
 ---
 
 ## 🧭 Explore More Projects  
-Check out my full **Projects Repository** for dashboards, UI experiments, and upcoming tech builds:
+Check out all my other Projects, UI experiments, and upcoming tech builds:
 
 🔗 [View All Projects →](https://github.com/mxyxnk518/Projects)
 
