@@ -17,5 +17,6 @@ I believe in hands-on learning driven by structured curriculums, creative side p
 
 - [VoyagePro](https://github.com/mxyxnk518/Projects/tree/main/voyagerpro-main/voyagerpro-main)
 - [PrePersona](https://github.com/mxyxnk518/Projects/tree/main/DataInsightPro)
+- [SpotifyClone](https://github.com/mxyxnk518/Projects/tree/main/project_music_player-main)
 
 
