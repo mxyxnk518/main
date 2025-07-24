@@ -15,10 +15,10 @@ I believe in hands-on learning driven by structured curriculums, creative side p
 ## 🌐 Live Portfolio
 Check out the deployed portfolio here: [Portfolio Website](https://helpful-malabi-05470f.netlify.app/)
 - Explore interactive 3D visuals, smooth transitions, and project showcases built with:
--- React + Vite: Lightning-fast SPA performance
--- Three.js + @react-three/fiber: Immersive 3D experiences
--- Tailwind CSS: Responsive and minimalist styling
--- EmailJS Integration: Real-time contact functionality
+- React + Vite: Lightning-fast SPA performance
+- Three.js + @react-three/fiber: Immersive 3D experiences
+- Tailwind CSS: Responsive and minimalist styling
+- EmailJS Integration: Real-time contact functionality
 
 
 
